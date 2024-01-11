@@ -1,0 +1,18 @@
+{
+    "Main Method": {
+        "prefix": "&main",
+        "body": [
+            "    public static void main(String[] args) {",
+            "        // Your code here",
+            "    }"
+        ],
+        "description": "Main Method"
+    },
+    "Print to terminal": {
+        "prefix": "&print",
+        "body": [
+            "System.out.println(\"defaultText\");"
+        ],
+        "description": "Print to terminal"
+    }
+}
