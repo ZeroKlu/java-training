@@ -15,12 +15,12 @@ Java Training
 ### Setup/Requirements ###
 
 * Follow setup steps in:
-    * Setting Up Your Workstation for Development Training.pdf
-    * Setting Up Your Workstation for Java Development.pdf
+    * [Setting Up Your Workstation for Development Training.pdf](https://drive.google.com/open?id=1nUeMa4p58ylraf_kB5VrL1hZiNpOCt5M&usp=drive_fs)
+    * [Setting Up Your Workstation for Java Training.pdf](https://drive.google.com/open?id=1nwKHD5hN8Nm7w5Z-dOaUmdd2Zri6zYkE&usp=drive_fs)
 
 ### Documentation ###
 
-* Documentation in /00_Resources/Setup Documents/
+* All documentation located in /00 - Resources/Setup Documentation/
 
 ### Who do I talk to? ###
 
