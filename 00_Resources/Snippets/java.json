@@ -1,4 +1,15 @@
 {
+    "Template": {
+        "prefix": "&template",
+        "body": [
+            "public class template {",
+            "    public static void main(String[] args) {",
+            "        // Your code here",
+            "    }",
+            "}"
+        ],
+        "description": "Java Template"
+    },
     "Main Method": {
         "prefix": "&main",
         "body": [
